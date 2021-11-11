@@ -1,4 +1,4 @@
-# [Recurion with Go](https://adron.github.io/recursions/)
+# [Recursion with Go](https://adron.github.io/recursions/)
 
 **Recursion** is the process in which a function calls itself directly or indirectly. If a function directly call from within itself, this is called **direct recursion** while a function calling into another is called **indirect recursion**.
 
