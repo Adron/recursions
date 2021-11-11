@@ -7,6 +7,8 @@
   * [Indirect](../javascript/01-indirect.js)
 * [Python](https://github.com/Adron/recursions/tree/python)
 * [Go](https://github.com/Adron/recursions/tree/golang)
+  * [Direct](../golang/00-direct.go)
+  * [Indirect](../golang/01-indirect.go)
 * [C#](https://github.com/Adron/recursions/tree/csharp)
 * [F#](https://github.com/Adron/recursions/tree/fsharp)
 * [VB.NET](https://github.com/Adron/recursions/tree/vbnet)
